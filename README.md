@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BlinkLabel
 
 [![CI Status](https://img.shields.io/travis/hellboy9257/BlinkLabel.svg?style=flat)](https://travis-ci.org/hellboy9257/BlinkLabel)
@@ -27,3 +28,6 @@ hellboy9257, luoxingrui2012@aliyun.com
 ## License
 
 BlinkLabel is available under the MIT license. See the LICENSE file for more info.
+=======
+# BlinkLabel
+>>>>>>> 7a6ef625f5e37e50acd2048e9f7c55a99a8b41d9
